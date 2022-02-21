@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-My name is Norbert and I work as a **Business Intelligence Analyst** with a main profile in **dashboard & report development**.  
-Passionate about the data analytics discipline and possessing hands-on experience with related tools & techniques: Tableau, Power BI, Power Query, SAP Analytics Cloud, PostgreSQL / MySQL.
+**Business & Data Analyst** with a focus on **dashboard & report development** and continuous data consultancy to business customers. Passionate about the data analytics discipline and possessing hands-on experience with related tools & techniques. Data visualization with **Tableau, Power BI, SAP Analytics Cloud** and data preparation/wrangling with **Excel, Power Query, PostgreSQL / MySQL**.
 
 **Created my GitHub profile to share here:**
 - details about my Tableau visualizations,
-- data prepping with SQL and practicing it in general
+- data prepping with SQL  
 - learning and practicing Python
 
 **Links:**  
