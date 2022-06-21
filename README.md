@@ -20,6 +20,7 @@
 (*Note: These are the projects with documentation on my GitHub profile. For more, check out my [Tableau Public](https://public.tableau.com/app/profile/norbert.borb.s) site!*)
 
 ## SQL Projects :computer:
+### ❗ [SQL Knowledge Base](https://github.com/nborbas/sql_knowledge_base) - Query Examples & Notes from participation in DataCamp courses
 - [Analyzing Unemployment Rates](https://github.com/nborbas/oecd_unemployment_rate) ("OECD Unemployment Rates" project)
 - [Pivotting with MySQL](https://github.com/nborbas/pivoting_practice_hackerrank) (HackerRank)
 - [Unpivotting data](https://github.com/nborbas/top_paid_musicians_2020) ("Top Paid Musicians" project)
