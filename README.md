@@ -1,13 +1,12 @@
 ## Hi There 👋
 
-My name is Norbert and I'm a **Tableau & SQL Certified Data & Business Intelligence Analyst** with 4 years of experience in **Dashboard Development**, **Data Visualization** and **Data Preparation**. Passionate about the analytics discipline and data consultancy to customers to leverage data for management decision-making. 
+My name is Norbert and I'm a **Data & Business Intelligence Analyst** with 5+ years of experience, **certified in key analytics tools: Tableau, KNIME and SQL**. Strong focus on data-driven decision-making and interactive BI solutions powered by various innovative software.
+Skilled in data analysis, data visualization, data modeling, BI automation initiatives, and collaboration across cross-functional projects. Passionate about driving and fostering a data culture and promoting data literacy through consultancy and trainings. 
 
-Created my GitHub profile to share here some projects in **SQL and 🔜Python**.
-
-## **Tableau Public portfolio 📊**
-
-Check out my Tableau visualization portfolio on the below link, including **4x #VizOfTheDay** awarded projects.  
-[Click here](https://public.tableau.com/app/profile/norbert.borb.s) to navigate to Tableau Public.
+On my GitHub profile you will mostly find:
+ - Some example **SQL** projects
+ - Link to my **Tableau Public Portfolio** which showcases various data visualizations made with Tableau software
+ - Link to my **KNIME Community Hub Profile** where several workflows are hosted that were made with KNIME Analytics Platform
 
 ## SQL Projects :computer:
 - [SQL Knowledge Base](https://github.com/nborbas/sql_knowledge_base) - Query Examples & Notes (DataCamp: _Data Analyst in SQL_ course)
@@ -15,10 +14,16 @@ Check out my Tableau visualization portfolio on the below link, including **4x #
 - [Unpivotting in SQL](https://github.com/nborbas/SQL_Top_Paid_Musicians_2020) - Through the "_Top Paid Musicians 2020_" project
 - [Case Study - OECD Unemployment Rates](https://github.com/nborbas/SQL_OECD_Unemployment_Rates)
 
-## Python Projects :snake:
-- Enrolled in DataCamp's Data Analyst in Python track  🔜  Sharing a Knowledge Base based on my notes
-- [My very first Python visualization](https://github.com/nborbas/sales_demo)
+## **Tableau Public Portfolio 📊**
+
+Check out my Tableau visualization portfolio on the below link, including **4x #VizOfTheDay** awarded projects.  
+[Click here](https://public.tableau.com/app/profile/norbert.borb.s) to navigate to Tableau Public.
+
+## **KNIME Community Hub Profile :star2:**
+
+Take a look at my KNIME Community Hub Profile showcasing several example workflows - mostly [Preppin' Data](https://preppindata.blogspot.com/) solutions - made with KNIME Analytics Platform.  
+[Click here](https://hub.knime.com/nborbas/spaces/Public/~lHfmJeMVq4t35X1p/) to navigate to the Community Hub.
 
 ## **Follow me on Social Media :iphone:**  
 📧 [LinkedIn](https://www.linkedin.com/in/norbert-borbas/)  
-🐦 [Twitter](https://twitter.com/norbert_borbas)
+🐦 [X / Twitter](https://twitter.com/norbert_borbas)
