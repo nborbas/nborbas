@@ -21,7 +21,7 @@ Check out my Tableau visualization portfolio on the below link, including **4x #
 
 ## **KNIME Community Hub Portfolio :star2:**
 
-Take a look at my KNIME Community Hub Profile showcasing several example workflows - mostly [Preppin' Data](https://preppindata.blogspot.com/) solutions - made with KNIME Analytics Platform.  
+Take a look at my KNIME Community Hub profile showcasing several example workflows - mostly [Preppin' Data](https://preppindata.blogspot.com/) solutions - made with KNIME Analytics Platform.  
 [Click here](https://hub.knime.com/nborbas/spaces/Public/~lHfmJeMVq4t35X1p/) to navigate to the Community Hub.
 
 ## **Follow me on Social Media :iphone:**  
