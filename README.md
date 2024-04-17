@@ -6,7 +6,7 @@ Skilled in data analysis, data visualization, data modeling, BI automation initi
 On my GitHub profile you will mostly find:
  - Some example **SQL** projects
  - Link to my **Tableau Public Portfolio** which showcases various data visualizations made with Tableau software
- - Link to my **KNIME Community Hub Profile** where several workflows are hosted that were made with KNIME Analytics Platform
+ - Link to my **KNIME Community Hub Portfolio** where several workflows are hosted that were made with KNIME Analytics Platform
 
 ## SQL Projects :computer:
 - [SQL Knowledge Base](https://github.com/nborbas/sql_knowledge_base) - Query Examples & Notes (DataCamp: _Data Analyst in SQL_ course)
@@ -19,7 +19,7 @@ On my GitHub profile you will mostly find:
 Check out my Tableau visualization portfolio on the below link, including **4x #VizOfTheDay** awarded projects.  
 [Click here](https://public.tableau.com/app/profile/norbert.borb.s) to navigate to Tableau Public.
 
-## **KNIME Community Hub Profile :star2:**
+## **KNIME Community Hub Portfolio :star2:**
 
 Take a look at my KNIME Community Hub Profile showcasing several example workflows - mostly [Preppin' Data](https://preppindata.blogspot.com/) solutions - made with KNIME Analytics Platform.  
 [Click here](https://hub.knime.com/nborbas/spaces/Public/~lHfmJeMVq4t35X1p/) to navigate to the Community Hub.
